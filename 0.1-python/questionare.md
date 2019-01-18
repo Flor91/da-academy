@@ -1,8 +1,9 @@
-What does it mean?
-"- Interpreted, object oriented, high-level programming language\n",
-"- Dynamic typing, dynamic binding\n",
-"- Simple, easy to learn syntax, readability\n",
-"- Modules and packages support\n",
-"- Extensive standard library\n",
-"- Asynchronous operations\n",
-"- Everything is an object in python\n"
+What does it mean?:
+
+1. Interpreted, object oriented, high-level programming language
+2. Dynamic typing, dynamic binding
+3. Simple, easy to learn syntax, readability
+4. Modules and packages support
+5. Extensive standard library
+6. Asynchronous operations
+7. Everything is an object in python
