@@ -1,15 +1,15 @@
-##Level 1 - Introduction
+## Level 1 - Introduction
 1.1 What is Python?
 1.2 Course Overview
 
-##Level 2 - First Steps
+## Level 2 - First Steps
 2.1 Overview
 2.2 Not another hello world / My first python program
 2.3 Reading Command Line Arguments
 2.4 Interactive Interpreter
 2.5 Debugging
 
-##Level 3 - File I/O: Data Processing
+## Level 3 - File I/O: Data Processing
 3.1 Overview
 3.2 Formatting and Saving the output
 3.3 Reading a Text File
