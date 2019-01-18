@@ -27,13 +27,16 @@ https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617
 https://www.udemy.com/the-ultimate-hands-on-hadoop-tame-your-big-data/
 
 ## Semana 3:
-### Taming Big Data with Apache Spark and Python - Hands On! : https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/
+### Taming Big Data with Apache Spark and Python - Hands On!
+https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/
 
 
 ## Semana 4:
-### Learn GCP: Google Cloud Data Engineer Express Course! : https://www.udemy.com/learn-gcp-become-a-certified-data-engineer-express-course/
+### Learn GCP: Google Cloud Data Engineer Express Course!
+https://www.udemy.com/learn-gcp-become-a-certified-data-engineer-express-course/
 
-### AWS Certified Cloud Practitioner 2019 : https://www.udemy.com/aws-certified-cloud-practitioner/
+### AWS Certified Cloud Practitioner 2019
+https://www.udemy.com/aws-certified-cloud-practitioner/
 https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials/
 
 
