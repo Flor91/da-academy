@@ -43,6 +43,9 @@ https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essential
 ## Semana 5: Ejercicio integrador
 
 
+Each course has extra questions to research and challenge exercises associated. It is not mandatory, but it is strongly recommended to complete this challenges in order to fully understand each subject. 
+
+
 ## Additional resources:
 Hadoop - The Definitive Guide - O’Reilly
 Spark - The Definitive Guide - O’Reilly

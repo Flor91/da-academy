@@ -1,16 +1,54 @@
+!Note:
+In this course we will be using Python version 3.6
+You can use another version of Python, but be aware that some syntaxes can differ.
+
+To install python: https://realpython.com/installing-python/
+
+To write your python scripts you can use the text editor of your choice.
+Our recommendations are:
+- Sublime text
+- Atom
+- Notepad++
+
+For more advance uses:
+- PyCharm
+- Eclipse
+
+To install packages, run the command:
+> pip install 'module-name'
+
+To run your scripts:
+> python 'script-name.py'
+
+To get into the interactive interpreter:
+> python
+
+---
+
+Following are some extra questions to research and challenge exercises associated to this course:
+
 ## Level 1 - Introduction
-- 1.1 What is Python?
-- 1.2 Course Overview
+What does it mean?:
+
+1. Interpreted, object oriented, high-level programming language
+2. Dynamic typing, dynamic binding
+3. Simple, easy to learn syntax, readability
+4. Modules and packages support
+5. Extensive standard library
+6. Asynchronous operations
+7. Everything is an object in python
+
 
 ## Level 2 - First Steps
-- 2.1 Overview
-- 2.2 Not another hello world / My first python program
-- 2.3 Reading Command Line Arguments
-- 2.4 Interactive Interpreter
-- 2.5 Debugging
+Not your typical hello world.
+
+1. What does sys.argv[0] return?
+2. How do we throw errors in python?
+3. What does the SystemError do?
+4. What is the importance of indentation in Python? What is the convention?
+5. What are the different ways of debugging a python program?
 
 ## Level 3 - File I/O: Data Processing
-- 3.1 Overview
 - 3.2 Formatting and Saving the output
 - 3.3 Reading a Text File
 - 3.4 Reading a CSV File
