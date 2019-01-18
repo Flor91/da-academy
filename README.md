@@ -1,13 +1,13 @@
 # da-academy
 
 ## Semana 0:
-### Python:
-https://globant.acamica.com/cursos/485/
-
-Complete Python Bootcamp: Go from zero to hero in Python 3: https://www.udemy.com/complete-python-bootcamp/
-
 ### Linux:
 https://www.edx.org/course/introduction-to-linux
+
+### Python:
+Complete Python Bootcamp: Go from zero to hero in Python 3: https://www.udemy.com/complete-python-bootcamp/
+
+https://globant.acamica.com/cursos/485/
 
 ## Semana 1:
 ### Bases de Datos relacionales:
@@ -43,7 +43,7 @@ https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essential
 ## Semana 5: Ejercicio integrador
 
 
-Each course has extra questions to research and challenge exercises associated. It is not mandatory, but it is strongly recommended to complete this challenges in order to fully understand each subject. 
+Each course has extra questions to research and challenge exercises associated. It is not mandatory, but it is strongly recommended to complete this challenges in order to fully understand each subject.
 
 
 ## Additional resources:
