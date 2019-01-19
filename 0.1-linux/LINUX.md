@@ -59,7 +59,7 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 
   ## Chapter 3: Linux Basics and System Startup
   ### The Boot Process
-  ![alt text](/resources/bootprocess.jpg "Boot Process")
+  ![alt text](resources/bootprocess.jpg "Boot Process")
 
   When the computer is powered on, the **Basic Input/Output System** (BIOS) initializes the hardware, including the screen and keyboard, and tests the main memory. This process is also called POST (Power On Self Test).
 
@@ -71,7 +71,7 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 
   A number of boot loaders exist for Linux; the most common ones are GRUB (for GRand Unified Boot loader), ISOLINUX (for booting from removable media), and DAS U-Boot (for booting on embedded devices/appliances). Most Linux boot loaders can present a user interface for choosing alternative options for booting Linux, and even other operating systems that might be installed. When booting Linux, the boot loader is responsible for loading the kernel image and the initial RAM disk or filesystem (which contains some critical files and device drivers needed to start the system) into memory.
 
-  ![alt text](/resources/mbr.jpg "MBR")
+  ![alt text](resources/mbr.jpg "MBR")
 
   *The boot loader has two distinct stages*:
 
@@ -79,7 +79,7 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 
   The second stage boot loader resides under /boot. A splash screen is displayed, which allows us to choose which operating system (OS) to boot. After choosing the OS, the boot loader loads the kernel of the selected operating system into RAM and passes control to it. The boot loader loads the selected kernel image and passes control to it. Kernels are almost always compressed, so its first job is to uncompress itself. After this, it will check and analyze the system hardware and initialize any hardware device drivers built into the kernel.
 
-  ![alt text](/resources/boot loader.jpg "Boot Loader Actions")
+  ![alt text](resources/boot loader.jpg "Boot Loader Actions")
 
   The initramfs (**Initial RAM Disk**) filesystem image contains programs and binary files that perform all actions needed to mount the proper root filesystem, like providing kernel functionality for the needed filesystem and device drivers for mass storage controllers with a facility called udev (for user device), which is responsible for figuring out which devices are present, locating the device drivers they need to operate properly, and loading them. After the root filesystem has been found, it is checked for errors and mounted.
 
@@ -87,7 +87,7 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 
   init handles the mounting and pivoting over to the final real root filesystem. If special hardware drivers are needed before the mass storage can be accessed, they must be in the initramfs image.
 
-  ![alt text](/resources/initrmfs.jpg "initrmfs")
+  ![alt text](resources/initrmfs.jpg "initrmfs")
 
   Near the end of the boot process, init starts a number of **text-mode login** prompts. These enable you to type your username, followed by your password, and to eventually get a command shell. However, if you are running a system with a graphical login interface, you will not see these at first.
 
@@ -95,7 +95,7 @@ Debian Family Systems (including Ubuntu and Linux Mint).
 
   Usually, the default command shell is bash (the GNU Bourne Again Shell), but there are a number of other advanced command shells available. The shell prints a text prompt, indicating it is ready to accept commands; after the user types the command and presses Enter, the command is executed, and another prompt is displayed after the command is done.
 
-  ![alt text](/resources/textmodelogin.jpg "Text Mode Login")
+  ![alt text](resources/textmodelogin.jpg "Text Mode Login")
 
 
   ### Kernel, init and Services
